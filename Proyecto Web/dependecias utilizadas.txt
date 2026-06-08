@@ -1,0 +1,9 @@
+npm install bootstrap 
+npm install chart.js react-chartjs-2
+npm install react-icons
+backed
+npm install express cors dotenv morgan
+npm install -D nodemon --- desarrollo 
+npm install axios
+npm install bcryptjs jsonwebtoken
+npm install jspdf jspdf-autotable
